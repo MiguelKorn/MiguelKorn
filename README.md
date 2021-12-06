@@ -1,9 +1,4 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=MiguelKorn&show_icons=true&theme=dark&custom_title=Stats&hide_rank=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelKorn&theme=dark)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **MiguelKorn/MiguelKorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
